@@ -1,0 +1,13 @@
+- available wireshark protocols: https://www.wireshark.org/docs/dfref/
+- ethernet frame: https://www.wireshark.org/docs/dfref/e/eth.html
+- arp: https://www.wireshark.org/docs/dfref/a/arp.html
+- dhcp: https://www.wireshark.org/docs/dfref/d/dhcp.html
+- icmp: https://www.wireshark.org/docs/dfref/i/icmp.html
+- ipv4: https://www.wireshark.org/docs/dfref/i/ip.html
+- ipv6: https://www.wireshark.org/docs/dfref/i/ipv6.html
+- udp: https://www.wireshark.org/docs/dfref/u/udp.html
+- tcp: https://www.wireshark.org/docs/dfref/t/tcp.html
+- http: https://www.wireshark.org/docs/dfref/h/http.html
+- http2: https://www.wireshark.org/docs/dfref/h/http2.html
+- http3: https://www.wireshark.org/docs/dfref/h/http3.html
+
